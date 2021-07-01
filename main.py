@@ -11,7 +11,7 @@ import os
 logger = telebot.logger
 logger.setLevel(logging.INFO)
 
-TOKEN = '1454965577:AAHqSx6CXCKvXjo1PCc7BLb8z4CJlOa5M-U'
+TOKEN = '***'
 files_directory = "files"
 days_left = 3
 
